@@ -1,5 +1,6 @@
 import Head from 'next/head'
 import Image from 'next/image'
+import DonutList from '../components/DonutList';
 import Featured from '../components/Featured';
 import styles from '../styles/Home.module.css'
 
@@ -12,6 +13,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Featured/>
+      <DonutList/>
     </div>
   );
 }
