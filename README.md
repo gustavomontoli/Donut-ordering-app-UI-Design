@@ -2,6 +2,9 @@ This is a UI Design of a Donut Shop Ordering app, (cause it's my favorite desser
 
 <p align="center">
   <img src="https://github.com/gustavomontoli/Donut-ordering-app-UI-Design/blob/main/snip1.PNG" alt=""/>
+  <img src="https://github.com/gustavomontoli/Donut-ordering-app-UI-Design/blob/main/snip2.PNG" alt=""/>
+  <img src="https://github.com/gustavomontoli/Donut-ordering-app-UI-Design/blob/main/snip3.PNG" alt=""/>
+  <img src="https://github.com/gustavomontoli/Donut-ordering-app-UI-Design/blob/main/snip4.PNG" alt=""/>
 </p>
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
