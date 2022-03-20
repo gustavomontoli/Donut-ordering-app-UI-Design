@@ -1,6 +1,8 @@
 This is a UI Design of a Donut Shop Ordering app, (cause it's my favorite dessert ever) made with React Next.Js and CSS. It's intended for the purpose of training my skills in Front-End languages. The reference project is https://github.com/safak/youtube/tree/next-pizza-ui. Next steps are developing responsive apps where people can actually order their products, not necesseraly donuts, but it's a start. Enjoy!
 
-<Image src="/img/snip1.png" layout="fill" alt="" />
+<p align="center">
+  <img src="https://github.com/gustavomontoli/Donut-ordering-app-UI-Design/blob/main/snip1.PNG" alt=""/>
+</p>
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
