@@ -28,7 +28,7 @@ const Order = () => {
                 <span className={styles.name}>John Doe</span>
               </td>
               <td>
-                <span className={styles.address}>Rua das Pitangueiras, lote 03</span>
+                <span className={styles.address}>Rua das Pitangueiras</span>
               </td>
               <td>
                 <span className={styles.total}>R$14.00</span>
