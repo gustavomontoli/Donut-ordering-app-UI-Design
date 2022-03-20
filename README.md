@@ -1,11 +1,39 @@
 This is a UI Design of a Donut Shop Ordering app, (cause it's my favorite dessert ever) made with React Next.Js and CSS. It's intended for the purpose of training my skills in Front-End languages. The reference project is https://github.com/safak/youtube/tree/next-pizza-ui. Next steps are developing responsive apps where people can actually order their products, not necesseraly donuts, but it's a start. Enjoy!
 
-<p align="center">
+<h1>The app homepage</h1>
+
+<figure>
+  <img src="snip1.PNG" alt="homepage" style="width:100%">
+  <figcaption>Fig.1 - Donut Shop app homepage.</figcaption>
+</figure>
+
+<h1>The details about the products at the store</h1>
+
+<figure>
+  <img src="snip2.PNG" alt="details" style="width:100%">
+  <figcaption>Fig.2 - Information about the products at the donut store.</figcaption>
+</figure>
+
+<h1>The cart page</h1>
+
+<figure>
+  <img src="snip3.PNG" alt="homepage" style="width:100%">
+  <figcaption>Fig.3 - The cart page showing the details about the product ordered.</figcaption>
+</figure>
+
+<h1>The product order tracking page</h1>
+
+<figure>
+  <img src="snip4.PNG" alt="homepage" style="width:100%">
+  <figcaption>Fig.4 - The tracking of the order.</figcaption>
+</figure>
+
+<!-- <p align="center">
   <img src="https://github.com/gustavomontoli/Donut-ordering-app-UI-Design/blob/main/snip1.PNG" alt=""/>
   <img src="https://github.com/gustavomontoli/Donut-ordering-app-UI-Design/blob/main/snip2.PNG" alt=""/>
   <img src="https://github.com/gustavomontoli/Donut-ordering-app-UI-Design/blob/main/snip3.PNG" alt=""/>
   <img src="https://github.com/gustavomontoli/Donut-ordering-app-UI-Design/blob/main/snip4.PNG" alt=""/>
-</p>
+</p> -->
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
